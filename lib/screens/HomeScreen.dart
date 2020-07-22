@@ -86,7 +86,7 @@ class _HomePageState extends State<HomePage> {
             shrinkWrap: true,
             slivers: <Widget>[
               SliverAppBar(
-                title: Text("Home Screen"),
+                title: Text("Home Scre en"),
                 actions: <Widget>[
                   IconButton(
                     icon: Icon(Icons.close),
